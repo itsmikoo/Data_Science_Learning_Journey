@@ -1,1 +1,7 @@
-"# Data_Science_Learning_Journey" 
+# 📊 Data Science Learning Journey  
+
+This repository documents my 20-week journey to mastering data science fundamentals. The plan is structured around daily learning and practice: Monday to Thursday for guided study, Friday for mini challenges, Saturday for a portfolio-ready project, and Sunday for review and documentation. By following this roadmap, I aim to build a strong foundation in Python, SQL, statistics, probability, data visualization, and machine learning, while also applying these skills through real-world projects.  
+
+Each month has a dedicated focus. Month 1 covers Python, data cleaning, exploratory data analysis (EDA), and SQL. Month 2 moves into statistics, probability, and business analytics. Month 3 explores advanced SQL, data visualization, wrangling at scale, and automation. Month 4 introduces machine learning foundations including regression, classification, clustering, and deployment with Streamlit. Finally, Month 5 is dedicated to capstone projects and portfolio preparation, ensuring all skills come together in practical, job-ready deliverables.  
+
+By the end of this learning journey, I will have completed over ten small projects and three capstone projects, all documented in this repository and showcased in a polished portfolio website. This process not only helps me reinforce technical skills but also prepares me for Data Analyst and Junior Data Scientist opportunities.  
